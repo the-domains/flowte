@@ -1,0 +1,14 @@
+layout_spectrum: 0.7089522555470467
+typography_spectrum: 0.2351398216560483
+color:
+  brandStrength: 0.7320969672873616
+  lightness: 0.5785452062264085
+  saturation: 0.223284994950518
+  rhythmicContrast: 0.9311189483851194
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+name: Flowte
